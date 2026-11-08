@@ -1,0 +1,4 @@
+.venv/ then 
+*.db then 
+__pycache__/ 
+then showcase_output/

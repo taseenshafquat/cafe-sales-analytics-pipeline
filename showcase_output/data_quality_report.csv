@@ -1,0 +1,9 @@
+,unusable_before,unusable_after,fixed,pct_fixed
+transaction_id,0,0,0,
+item,969,0,969,100.0
+quantity,479,0,479,100.0
+price,533,0,533,100.0
+transaction_total,502,0,502,100.0
+payment_method,3178,2870,308,9.7
+location,3961,3592,369,9.3
+transaction_date,460,0,460,100.0
