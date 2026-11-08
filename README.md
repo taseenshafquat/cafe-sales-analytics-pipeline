@@ -54,7 +54,6 @@ Replace the numbers below with the output from your own run.
 | Measure | Result |
 |---|---|
 | Raw rows | 10,000 |
-<<<<<<< HEAD
 | Rows after cleaning |  9,064 clean (936 unrecoverable rows removed) |
 
 ## Evidence: Screenshots from a Real Run
@@ -72,11 +71,6 @@ Replace the numbers below with the output from your own run.
 ![Revenue by item](screenshots/pillar3_revenue_by_item.png)
 
 Full output: [results/showcase_log.txt](results/showcase_log.txt)
-=======
-| Rows after cleaning | [fill in from `[finalize]` line] |
-| Missing values recovered | [fill in from `[patch]` line] |
-| Rows where quantity x price does not match total | [fill in from `[validate]` line] |
->>>>>>> 9ef64f18fdea591dffee3908ad068d373651586f
 
 ### Reproducibility
 
