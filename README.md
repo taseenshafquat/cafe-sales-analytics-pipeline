@@ -101,4 +101,5 @@ Python (pandas, numpy, sqlite3), data cleaning, data validation, SQL, version co
 
 ## Author
 
-[Your name] | [LinkedIn or portfolio link]
+Taseen Shafquat  | [Linkedin: https://www.linkedin.com/in/taseen-shafquat/]
+[Portfolio Site: https://marketlitics.vercel.app/]
